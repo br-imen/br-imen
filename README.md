@@ -35,6 +35,7 @@ Hi there! I'm IMEN, a software developer based in France. I'm a passionate perso
 ## 📫 Connect with Me
 
 [<img alt=linkedin src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge">](https://www.linkedin.com/in/imenbr/)
+[<img alt=linkedin src="https://img.shields.io/static/v1?message=Hackerrank&logo=hackerrank&label=&color=2ccc64&logoColor=white&labelColor=&style=for-the-badge">](https://www.hackerrank.com/profile/imen_benrhouma)
 
 
 Feel free to reach out to me if you have any questions or just want to chat! 😊
