@@ -10,7 +10,7 @@ Hi there! I'm IMEN, a software developer based in France. I'm a passionate perso
   <img src="https://img.shields.io/badge/Mysql-282C34?logo=Mysql&logoColor=blue" alt="Mysql logo" title="Mysql" height="25" />   <img src="https://img.shields.io/badge/Html5-282C34?logo=Html5&logoColor=orqnge" alt="Html5 logo" title="Html5" height="25" />
   <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=blue" alt="Css3 logo" title="Css3" height="25" /> <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 
-- Interests: Algorithms - data structures
+- Interests: Algorithms - Data structures
 
 ## 🎖️  Certifications:
 
