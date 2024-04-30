@@ -29,7 +29,7 @@ Hi there! I'm IMEN, a software developer based in France. I'm a passionate perso
 
 ### Technologies :
 
-  * <img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=green" alt="Django logo" title="Django" height="25" /> <img src="https://img.shields.io/badge/Git-282C34?logo=Git&logoColor=red" alt="Git logo" title="Git" height="25" /> <img src="https://img.shields.io/badge/Postgresql-282C34?logo=Postgresql&logoColor=blue" alt="Postgresql logo" title="Postgresql" height="25" />
+  * <img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=green" alt="Django logo" title="Django" height="25" /> <img src="https://img.shields.io/badge/Git-282C34?logo=Git&logoColor=red" alt="Git logo" title="Git" height="25" /> <img src="https://img.shields.io/badge/Postgresql-282C34?logo=Postgresql&logoColor=blue" alt="Postgresql logo" title="Postgresql" height="25" /> <img src="https://img.shields.io/badge/Postman-282C34?logo=Postgresql&logoColor=orange" alt="Postman logo" title="Postman" height="25" />
 
 
 ## 📫 Connect with Me
