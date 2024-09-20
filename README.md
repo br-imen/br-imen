@@ -27,11 +27,11 @@ Learning new skills
 - Gained proficiency in PostgreSQL, SQLAlchemy, Alembic, and pytest for database management, migrations, and testing.
 
 #### [Python-OC-Lettings-FR](https://github.com/br-imen/Python-OC-Lettings-FR):
-- Built a web app with Django, focusing on modular architecture and virtual environment management.
-- Implemented CI/CD pipelines with GitHub Actions and error tracking with Sentry, maintaining code quality with Flake8 and Sphinx.
+- Refactoring a web app with Django, focusing on modular architecture and virtual environment management.
+- Deployed and Implemented CI/CD pipelines with GitHub Actions and error tracking with Sentry, maintaining code quality with Flake8 and Sphinx.
 
 #### [Python_Testing](https://github.com/br-imen/Python_Testing):
-- Developed a Flask app using JSON for data storage and enhanced testing workflows with pytest.
+- Debugged and added workflows with pytest.
 - Improved bug-fixing processes using branches, pull requests, and a QA branch for quality assurance.
 
 #### [Softdesk](https://github.com/br-imen/softdesk):
@@ -44,7 +44,7 @@ Learning new skills
 
 #### [AlgoInvest-Trade-project7-op](https://github.com/br-imen/AlgoInvest-Trade-project7-op):
 - Implemented brute-force and dynamic programming algorithms for investment optimization, improving Python skills.
-- Focused on algorithm performance, data handling with pandas, and efficient problem-solving.
+- Focused on algorithm performance and efficient problem-solving.
 
 #### [JustStreamIt-project6-op](https://github.com/br-imen/JustStreamIt-project6-op):
 - Developed a dynamic movie database app using AJAX and vanilla JavaScript for real-time data fetching.
