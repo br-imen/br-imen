@@ -13,6 +13,8 @@ Hi there! I'm IMEN, a software developer based in France. I'm a passionate perso
 Learning new skills 
 
 ## 🎖️  Certifications:
+-    <img src="https://www.edx.org/trademarks/edx-logo-registered-elm.png" alt="edx logo" title="edx" height="25" /> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python logo" title="python" height="25" />
+ [CS50's Introduction to Programming with Python](https://certificates.cs50.io/86e45bae-5042-416a-938a-ff23bd444cda.png?size=letter)
 - <img src="https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_OpenClassrooms.png?20210604083359" alt="duck logo" title="python" height="25" />  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="duck logo" title="python" height="25" /> Application Developer - Python RNCP level 6
 
 - <img src="https://cs50.gallerycdn.vsassets.io/extensions/cs50/ddb50/1.1.2/1691002683906/Microsoft.VisualStudio.Services.Icons.Default" alt="duck logo" title="duck" height="25" /> [CS50x: CS50's Introduction to Computer Science](https://courses.edx.org/certificates/5680e4345ce9468cb59986a7b50e0f9c)
@@ -70,14 +72,15 @@ Learning new skills
 ## 📖  What I am currently learning / improving on
    
    ###  Courses :
-   <img src="https://www.edx.org/trademarks/edx-logo-registered-elm.png" alt="edx logo" title="edx" height="25" /> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python logo" title="python" height="25" />
- CS50's Introduction to Programming with Python
-
+ - <img src="https://www.edx.org/trademarks/edx-logo-registered-elm.png" alt="edx logo" title="edx" height="25" /> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python logo" title="python" height="25" />CS50's Web Programming with Python and JavaScript
 
 
 ### Technologies :
 
-   <img src="https://img.shields.io/badge/FastAPI-282C34?logo=FastAPI&logoColor=blue green" alt="FastAPI logo" title="FastAPI" height="25" />
+   <img src="https://img.shields.io/badge/FastAPI-282C34?logo=FastAPI" alt="FastAPI logo" title="FastAPI" height="25" />
+   <img src="https://img.shields.io/badge/Linux-282C34?logo=Linux" alt="Linux logo" title="Linux" height="25" />
+
+   
 
 
 ## 📫 Connect with Me
