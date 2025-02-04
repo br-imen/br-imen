@@ -16,9 +16,9 @@ Learning new skills
 
 - <img src="https://cs50.gallerycdn.vsassets.io/extensions/cs50/ddb50/1.1.2/1691002683906/Microsoft.VisualStudio.Services.Icons.Default" alt="duck logo" title="duck" height="25" />  [Computer Science for Python Programming](https://credentials.edx.org/credentials/c9d45d74868749ffb1643d056510004f/)
 
-   - ☑ [CS50's Introduction to Programming with Python](https://certificates.cs50.io/86e45bae-5042-416a-938a-ff23bd444cda.png?size=letter)
+   - [CS50's Introduction to Programming with Python](https://certificates.cs50.io/86e45bae-5042-416a-938a-ff23bd444cda.png?size=letter) ☑
 
-   - ☑ [CS50x: CS50's Introduction to Computer Science](https://courses.edx.org/certificates/5680e4345ce9468cb59986a7b50e0f9c)
+   - [CS50x: CS50's Introduction to Computer Science](https://courses.edx.org/certificates/5680e4345ce9468cb59986a7b50e0f9c) ☑ 
 
 - <img src="https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_OpenClassrooms.png?20210604083359" alt="duck logo" title="python" height="25" />  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="duck logo" title="python" height="25" /> Application Developer - Python RNCP level 6
 
