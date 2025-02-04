@@ -12,16 +12,15 @@ Hi there! I'm IMEN, a software developer based in France. I'm a passionate perso
 ### Interests: 
 Learning new skills 
 
-## 🎖️  Certifications:
-## Certifications
+## 🎖️ Certifications:
 
-- [Computer Science for Python Programming](https://credentials.edx.org/credentials/c9d45d74868749ffb1643d056510004f/)
-   - <img src="https://cs50.gallerycdn.vsassets.io/extensions/cs50/ddb50/1.1.2/1691002683906/Microsoft.VisualStudio.Services.Icons.Default" alt="duck logo" title="duck" height="25" />  [CS50's Introduction to Programming with Python](https://certificates.cs50.io/86e45bae-5042-416a-938a-ff23bd444cda.png?size=letter)
-   - <img src="https://cs50.gallerycdn.vsassets.io/extensions/cs50/ddb50/1.1.2/1691002683906/Microsoft.VisualStudio.Services.Icons.Default" alt="duck logo" title="duck" height="25" /> [CS50x: CS50's Introduction to Computer Science](https://courses.edx.org/certificates/5680e4345ce9468cb59986a7b50e0f9c)
+- <img src="https://cs50.gallerycdn.vsassets.io/extensions/cs50/ddb50/1.1.2/1691002683906/Microsoft.VisualStudio.Services.Icons.Default" alt="duck logo" title="duck" height="25" />  [Computer Science for Python Programming](https://credentials.edx.org/credentials/c9d45d74868749ffb1643d056510004f/)
+
+   - ☑ [CS50's Introduction to Programming with Python](https://certificates.cs50.io/86e45bae-5042-416a-938a-ff23bd444cda.png?size=letter)
+
+   - ☑ [CS50x: CS50's Introduction to Computer Science](https://courses.edx.org/certificates/5680e4345ce9468cb59986a7b50e0f9c)
 
 - <img src="https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_OpenClassrooms.png?20210604083359" alt="duck logo" title="python" height="25" />  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="duck logo" title="python" height="25" /> Application Developer - Python RNCP level 6
-
-
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/2048px-Google_%22G%22_logo.svg.png" alt="google" title="google" height="25" /> [Foundations of User Experience (UX) Design
 ](https://coursera.org/share/c694bde9ad872ccf482be23bb5b49faf)
@@ -68,12 +67,7 @@ Learning new skills
 - Developed a full-stack e-commerce app using Flask with user authentication and CRUD operations.
 - Deployed on Heroku and improved front-end skills with HTML, CSS, and JavaScript.
 
-#### All Pset-CS50x and Lab-CS50x:
-- Completed various problem sets covering algorithms, data structures, and web programming.
-- Gained a strong foundation in Python and computer science fundamentals.
-
-
-## 📖  What I am currently learning / improving on
+## 📖 What I am currently learning / improving on
    
    ###  Courses :
  [![edX](https://img.shields.io/badge/edX-CS50%20Web%20Programming-blue)](https://cs50.harvard.edu/web/)
@@ -81,8 +75,6 @@ Learning new skills
 
 ### Technologies :
    <img src="https://img.shields.io/badge/Linux-282C34?logo=Linux" alt="Linux logo" title="Linux" height="25" />
-
-   
 
 
 ## 📫 Connect with Me
